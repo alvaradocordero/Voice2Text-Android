@@ -11,9 +11,13 @@ import android.widget.Button
 import android.widget.ScrollView
 import android.widget.TextView
 import android.widget.Toast
+import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
+import androidx.core.view.updatePadding
 
 /**
  * Proof-of-concept: capture microphone audio and convert speech to text.
@@ -60,6 +64,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        enableEdgeToEdge()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
@@ -68,6 +73,20 @@ class MainActivity : AppCompatActivity() {
         toggleButton = findViewById(R.id.toggleButton)
         langButton = findViewById(R.id.langButton)
         resultScroller = findViewById(R.id.resultScroller)
+
+        // Edge-to-edge: apply system-bar insets as padding so content is never
+        // obscured by the status/navigation bars (mandatory for targetSdk 35+).
+        val contentPadding = (24 * resources.displayMetrics.density).toInt()
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById<android.view.View>(R.id.rootLayout)) { v, insets ->
+            val bars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
+            v.updatePadding(
+                left = contentPadding + bars.left,
+                top = contentPadding,
+                right = contentPadding + bars.right,
+                bottom = contentPadding + bars.bottom
+            )
+            insets
+        }
 
         // Verify the device actually offers speech recognition.
         if (!SpeechRecognizer.isRecognitionAvailable(this)) {
