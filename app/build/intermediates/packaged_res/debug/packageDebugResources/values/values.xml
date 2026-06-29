@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="status_color">#FF616161</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transcript_bg">#11000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Android Whisper</string>
+    <string name="error_no_recognition">Speech recognition is not available on this device.</string>
+    <string name="lang_english">English (US)</string>
+    <string name="lang_spanish">Español (ES)</string>
+    <string name="start">Start listening</string>
+    <string name="status_error_format">Error: %1$s</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_permission_denied">Microphone permission denied.</string>
+    <string name="status_processing">Processing…</string>
+    <string name="status_ready">Ready. Tap "Start listening".</string>
+    <string name="status_speaking">Speech detected…</string>
+    <string name="status_tap_to_continue">Done. Tap again to continue.</string>
+    <string name="stop">Stop</string>
+    <string name="subtitle">Microphone → text (English &amp; Spanish)</string>
+    <string name="title">Speech to Text</string>
+    <string name="toast_permission_denied">Microphone access is required for speech recognition.</string>
+    <string name="transcript_label">TRANSCRIPT</string>
+    <style name="Theme.WhisperDemo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>

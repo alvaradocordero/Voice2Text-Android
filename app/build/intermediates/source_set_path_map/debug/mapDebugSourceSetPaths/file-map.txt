@@ -1,0 +1,39 @@
+com.example.whisperdemo.app-savedstate-1.2.1-0 /Users/andres/.gradle/caches/8.11.1/transforms/0755db74d1cfb1ed7ae7b69969f26bd2/transformed/savedstate-1.2.1/res
+com.example.whisperdemo.app-drawerlayout-1.1.1-1 /Users/andres/.gradle/caches/8.11.1/transforms/17047ba46271bf4aa8edcd453488a60f/transformed/drawerlayout-1.1.1/res
+com.example.whisperdemo.app-constraintlayout-2.0.1-2 /Users/andres/.gradle/caches/8.11.1/transforms/3332a7836e4273c80d911ecb59f9fa8e/transformed/constraintlayout-2.0.1/res
+com.example.whisperdemo.app-core-runtime-2.2.0-3 /Users/andres/.gradle/caches/8.11.1/transforms/3de795f363b32bf43bde4232cd5d41c6/transformed/core-runtime-2.2.0/res
+com.example.whisperdemo.app-startup-runtime-1.1.1-4 /Users/andres/.gradle/caches/8.11.1/transforms/409c2a4e67f55d59dabb343745298f5e/transformed/startup-runtime-1.1.1/res
+com.example.whisperdemo.app-savedstate-ktx-1.2.1-5 /Users/andres/.gradle/caches/8.11.1/transforms/43e95986aba05fe1ddbc58646caa6d0c/transformed/savedstate-ktx-1.2.1/res
+com.example.whisperdemo.app-appcompat-1.7.0-6 /Users/andres/.gradle/caches/8.11.1/transforms/43fb5786457303a66dcedf42c871b1b4/transformed/appcompat-1.7.0/res
+com.example.whisperdemo.app-lifecycle-runtime-2.6.2-7 /Users/andres/.gradle/caches/8.11.1/transforms/6090d0a45a11904136f782775d031059/transformed/lifecycle-runtime-2.6.2/res
+com.example.whisperdemo.app-recyclerview-1.1.0-8 /Users/andres/.gradle/caches/8.11.1/transforms/67b816fbc6730702f39819022ddf545a/transformed/recyclerview-1.1.0/res
+com.example.whisperdemo.app-activity-1.9.3-9 /Users/andres/.gradle/caches/8.11.1/transforms/7341bd4d5887b78856613c5081093e17/transformed/activity-1.9.3/res
+com.example.whisperdemo.app-emoji2-1.3.0-10 /Users/andres/.gradle/caches/8.11.1/transforms/76f2747717c13d47b2802a99e645929d/transformed/emoji2-1.3.0/res
+com.example.whisperdemo.app-transition-1.5.0-11 /Users/andres/.gradle/caches/8.11.1/transforms/77b238b7156cbbfd1ab5cfc95e26a036/transformed/transition-1.5.0/res
+com.example.whisperdemo.app-annotation-experimental-1.4.1-12 /Users/andres/.gradle/caches/8.11.1/transforms/7b198a2c790ce2f50670a4eb98f9571f/transformed/annotation-experimental-1.4.1/res
+com.example.whisperdemo.app-lifecycle-viewmodel-2.6.2-13 /Users/andres/.gradle/caches/8.11.1/transforms/7e0914f5e960f0893856acced52603c1/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.whisperdemo.app-lifecycle-livedata-core-2.6.2-14 /Users/andres/.gradle/caches/8.11.1/transforms/7fcd9d1db2ce70537bdafb7b94ba9b38/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.whisperdemo.app-appcompat-resources-1.7.0-15 /Users/andres/.gradle/caches/8.11.1/transforms/80209eaa6a66c6103ae6bde04cf9a3ae/transformed/appcompat-resources-1.7.0/res
+com.example.whisperdemo.app-cardview-1.0.0-16 /Users/andres/.gradle/caches/8.11.1/transforms/900f45fecf352f9e730627371f2a5ad6/transformed/cardview-1.0.0/res
+com.example.whisperdemo.app-material-1.12.0-17 /Users/andres/.gradle/caches/8.11.1/transforms/90daebac4faf208888e7dbeecfcc3fc0/transformed/material-1.12.0/res
+com.example.whisperdemo.app-lifecycle-viewmodel-ktx-2.6.2-18 /Users/andres/.gradle/caches/8.11.1/transforms/99d99847b28db19fb9a95d6c0fd92948/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.example.whisperdemo.app-coordinatorlayout-1.1.0-19 /Users/andres/.gradle/caches/8.11.1/transforms/a15ca862d6cddc8ecb75b1f36fd6b7b8/transformed/coordinatorlayout-1.1.0/res
+com.example.whisperdemo.app-lifecycle-livedata-2.6.2-20 /Users/andres/.gradle/caches/8.11.1/transforms/a684bf67cc8bba0f7dcf166123b7f3e6/transformed/lifecycle-livedata-2.6.2/res
+com.example.whisperdemo.app-lifecycle-runtime-ktx-2.6.2-21 /Users/andres/.gradle/caches/8.11.1/transforms/becf4bea3008605ac497ff1c87acadcf/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.example.whisperdemo.app-lifecycle-viewmodel-savedstate-2.6.2-22 /Users/andres/.gradle/caches/8.11.1/transforms/c8b0fcbfb87b352fe3b2b7e846bb3d0e/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.whisperdemo.app-lifecycle-process-2.6.2-23 /Users/andres/.gradle/caches/8.11.1/transforms/cdccf6baf926266637180194d74ddea9/transformed/lifecycle-process-2.6.2/res
+com.example.whisperdemo.app-fragment-1.5.4-24 /Users/andres/.gradle/caches/8.11.1/transforms/ced76a53431f75e9f05a2c330cf1baad/transformed/fragment-1.5.4/res
+com.example.whisperdemo.app-viewpager2-1.0.0-25 /Users/andres/.gradle/caches/8.11.1/transforms/d0c1f87c13bd384f97c19e2ccfb3b7f4/transformed/viewpager2-1.0.0/res
+com.example.whisperdemo.app-profileinstaller-1.3.1-26 /Users/andres/.gradle/caches/8.11.1/transforms/d55b5ff1590ca4073eef5ecaac8801f9/transformed/profileinstaller-1.3.1/res
+com.example.whisperdemo.app-emoji2-views-helper-1.3.0-27 /Users/andres/.gradle/caches/8.11.1/transforms/e0069b11073b161aec1706f3b86dc6db/transformed/emoji2-views-helper-1.3.0/res
+com.example.whisperdemo.app-core-ktx-1.15.0-28 /Users/andres/.gradle/caches/8.11.1/transforms/e126983626cc57f1bec3846efc91ddd6/transformed/core-ktx-1.15.0/res
+com.example.whisperdemo.app-core-1.15.0-29 /Users/andres/.gradle/caches/8.11.1/transforms/ed3197bb6fd0d9ef3d08b5639baf00c0/transformed/core-1.15.0/res
+com.example.whisperdemo.app-activity-ktx-1.9.3-30 /Users/andres/.gradle/caches/8.11.1/transforms/f13e41b2811f4855bb5253cf66267859/transformed/activity-ktx-1.9.3/res
+com.example.whisperdemo.app-tracing-1.2.0-31 /Users/andres/.gradle/caches/8.11.1/transforms/fd49a0f0fb266e17d61ba40ed9a1d8cc/transformed/tracing-1.2.0/res
+com.example.whisperdemo.app-pngs-32 /Users/andres/Library/CloudStorage/GoogleDrive-alvaradocordero@gmail.com/My Drive/backup/goose/androidWhisper/app/build/generated/res/pngs/debug
+com.example.whisperdemo.app-resValues-33 /Users/andres/Library/CloudStorage/GoogleDrive-alvaradocordero@gmail.com/My Drive/backup/goose/androidWhisper/app/build/generated/res/resValues/debug
+com.example.whisperdemo.app-packageDebugResources-34 /Users/andres/Library/CloudStorage/GoogleDrive-alvaradocordero@gmail.com/My Drive/backup/goose/androidWhisper/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.whisperdemo.app-packageDebugResources-35 /Users/andres/Library/CloudStorage/GoogleDrive-alvaradocordero@gmail.com/My Drive/backup/goose/androidWhisper/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.whisperdemo.app-debug-36 /Users/andres/Library/CloudStorage/GoogleDrive-alvaradocordero@gmail.com/My Drive/backup/goose/androidWhisper/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.whisperdemo.app-debug-37 /Users/andres/Library/CloudStorage/GoogleDrive-alvaradocordero@gmail.com/My Drive/backup/goose/androidWhisper/app/src/debug/res
+com.example.whisperdemo.app-main-38 /Users/andres/Library/CloudStorage/GoogleDrive-alvaradocordero@gmail.com/My Drive/backup/goose/androidWhisper/app/src/main/res
